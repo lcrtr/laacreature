@@ -78,7 +78,7 @@ img {
 }
 .my-gallery figure {
   display: block;
-  width: 31.3333333%;
+  width: 100%;
   
   margin: 1%;
 }
